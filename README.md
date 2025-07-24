@@ -375,10 +375,7 @@ cannot estimate gas; transaction may fail or may require manual gas limit [ See:
 
 ### ❓ Questions & Help Needed
 
-1. Does the order of `input.add64()` strictly have to match the Solidity function parameter order?
-2. Can a single `inputProof` be shared for multiple `FHE.fromExternal(...)` calls?
-3. How to correctly associate handles with parameters in complex multi-input scenarios?
-4. Are there any working examples with three or more encrypted inputs of type `externalEuint64`?
+1. how to fix it or where the code is wrong?
 
 
 ### 🙏 Any help, suggestions, or example repos would be greatly appreciated!
