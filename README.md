@@ -341,7 +341,6 @@ The full contract uses euint64, ebool, and other FHE-based types.
           hexHandles[1],
           hexHandles[2],
           hexAttestation,
-          { gasLimit: 500000 }
         );
 
         await tx.wait();
